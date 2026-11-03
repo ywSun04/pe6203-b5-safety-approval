@@ -2,7 +2,7 @@
 
 ## Group report
 
-**小组报告 / Group B5 technical report:** [PE6203_B5_Report.pdf](https://github.com/ywSun04/pe6203-b5-safety-approval/blob/main/PE6203_B5_Report.pdf)
+**Group B5 technical report:** [PE6203_B5_Report.pdf](https://github.com/ywSun04/pe6203-b5-safety-approval/blob/main/PE6203_B5_Report.pdf)
 
 ## Cumulative risk-policy review
 
