@@ -1,5 +1,9 @@
 # Approval gate
 
+## Group report
+
+**小组报告 / Group B5 technical report:** [PE6203_B5_Report.pdf](https://github.com/ywSun04/pe6203-b5-safety-approval/blob/main/PE6203_B5_Report.pdf)
+
 ## Cumulative risk-policy review
 
 [BasicRiskPolicy cumulative review](docs/risk-policy-cumulative-review.md) independently replays 150 calls across 72 supplied runs. [Evidence tables](results/risk-policy-cumulative/) separate routing checks from the attributed M5 fixed 80-run matched panel. Personal reports and presentations remain outside this repository; frozen execution code is unchanged.
